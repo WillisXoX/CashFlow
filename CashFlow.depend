@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1622967789 source:d:\sdl\cashflow\joueur.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<algorithm>
+	<bits/stdc++.h>
+	<math.h>
+	"joueur.h"
+
+1622882358 d:\sdl\cashflow\joueur.h
+	<string>
+
+1622967912 source:d:\sdl\cashflow\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<fstream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<windows.h>
+	"joueur.h"
+	"inGame.h"
+	"clearScreen.h"
+	"nouveauMoins.h"
+	"ajouterDesOpportunites.h"
+	"ajouterDesJoueurs.h"
+	"afficherDesOpportunites.h"
+	"checkRatRace.h"
+	"deplacerJoueur.h"
+	"selectionerDesOpportunites.h"
+	"deplacementJoueur.h"
+	"lancerDie.h"
+
+1622805256 d:\sdl\cashflow\ajouterdesopportunites.h
+	<iostream>
+	<fstream>
+
+1622619191 d:\sdl\cashflow\ajouterdesjoueurs.h
+
+1622967912 d:\sdl\cashflow\afficherdesopportunites.h
+	<algorithm>
+
+1622616653 d:\sdl\cashflow\clearscreen.h
+
+1622916163 d:\sdl\cashflow\selectionerdesopportunites.h
+	"clearScreen.h"
+	<cstdlib>
+	<bits/stdc++.h>
+
+1622471939 d:\sdl\cashflow\checkratrace.h
+
+1622967107 d:\sdl\cashflow\deplacerjoueur.h
+	"nouveauMoins.h"
+	"lancerDie.h"
+
+1622619898 d:\sdl\cashflow\lancerdie.h
+
+1622916264 d:\sdl\cashflow\deplacementjoueur.h
+
+1622916718 d:\sdl\cashflow\nouveaumoins.h
+
+1622643250 d:\sdl\cashflow\ingame.h
+
+1622968099 source:h:\home\cashflow\joueur.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<algorithm>
+	<bits/stdc++.h>
+	<math.h>
+	"joueur.h"
+
+1622882358 h:\home\cashflow\joueur.h
+	<string>
+
+1622967912 source:h:\home\cashflow\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+	<fstream>
+	<stdio.h>
+	<cstdlib>
+	<string>
+	<windows.h>
+	"joueur.h"
+	"inGame.h"
+	"clearScreen.h"
+	"nouveauMoins.h"
+	"ajouterDesOpportunites.h"
+	"ajouterDesJoueurs.h"
+	"afficherDesOpportunites.h"
+	"checkRatRace.h"
+	"deplacerJoueur.h"
+	"selectionerDesOpportunites.h"
+	"deplacementJoueur.h"
+	"lancerDie.h"
+
+1622643250 h:\home\cashflow\ingame.h
+
+1622616653 h:\home\cashflow\clearscreen.h
+
+1622916718 h:\home\cashflow\nouveaumoins.h
+
+1622805256 h:\home\cashflow\ajouterdesopportunites.h
+	<iostream>
+	<fstream>
+
+1622619191 h:\home\cashflow\ajouterdesjoueurs.h
+
+1622967912 h:\home\cashflow\afficherdesopportunites.h
+	<algorithm>
+
+1622471939 h:\home\cashflow\checkratrace.h
+
+1622967107 h:\home\cashflow\deplacerjoueur.h
+	"nouveauMoins.h"
+	"lancerDie.h"
+
+1622619898 h:\home\cashflow\lancerdie.h
+
+1622916163 h:\home\cashflow\selectionerdesopportunites.h
+	"clearScreen.h"
+	<cstdlib>
+	<bits/stdc++.h>
+
+1622916264 h:\home\cashflow\deplacementjoueur.h
+
